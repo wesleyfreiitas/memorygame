@@ -10,7 +10,6 @@
     "css:w": "npm run css && node-sass src/scss/estilo.scss -w dist/css/app.css"
   },
   "keywords": [],
-  "author": "Daniel Tapias Morales <tapmorales@gmail.com> (tapmorales.com)",
   "license": "MIT",
   "devDependencies": {
     "@babel/cli": "^7.12.10",
@@ -20,7 +19,7 @@
     "babel-loader": "^8.2.2",
     "node-sass": "^5.0.0",
     "ts-loader": "^8.0.16",
-    "typescript": "^4.1.3",
+    "typescript": "^4.9.5",
     "webpack": "^5.11.1",
     "webpack-cli": "^4.3.1"
   },
